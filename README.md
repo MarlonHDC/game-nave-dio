@@ -69,4 +69,4 @@ O Projeto foi por:
 ## Exemplo
 
 
-![Game de Nave: Missão Resgate ](https://user-images.githubusercontent.com/94640918/156197881-ebb6fd27-577b-4710-b846-40727be3a343.mp4)
+![Game Nave Gif](https://user-images.githubusercontent.com/94640918/156200460-06d3ef4c-17e9-49aa-9070-f4649b0dd13f.gif)
